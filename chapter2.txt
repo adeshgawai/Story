@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii they are very nice to see u !!!!!
+=======
+hii they are very nice to see u i am adesh hw djsk!!!!!
+>>>>>>> new-work
